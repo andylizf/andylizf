@@ -1,4 +1,4 @@
-## Hi there, I'm Zhifei Li (Andy Lee) 👋
+## Hi there, I'm Zhifei Li 👋
 
 I'm a Visiting Student Researcher at **UC Berkeley's Sky Computing Lab** and a senior-year Computer Science undergraduate at **Renmin University of China**.
 
