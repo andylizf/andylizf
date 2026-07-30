@@ -1,37 +1,26 @@
-## Hi there, I'm Zhifei Li 👋
+## Zhifei Li
 
-I'm a Visiting Student Researcher at **UC Berkeley's Sky Computing Lab** and a senior-year Computer Science undergraduate at **Renmin University of China**.
+Incoming CS PhD student at Princeton (Fall 2026), advised by Tri Dao and Ravi Netravali.
+Previously a visiting student researcher at UC Berkeley's Sky Computing Lab with Ion Stoica.
+B.S. from Renmin University of China.
 
-My passion lies at the intersection of **AI Systems, Cloud Computing, and Operating Systems**. I'm driven to build the next generation of efficient, scalable, and intelligent infrastructure. My goal is to pursue a PhD in Computer Science.
+I work broadly on machine learning systems, with interests in efficient infrastructure,
+training and inference systems, and the design of systems for emerging AI workloads.
 
-Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/andylizf)
-[<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="25">](https://scholar.google.com/citations?user=7MiEsfAAAAAJ)
-[<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="25">](https://x.com/andylizf)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">](mailto:zhifei.li@berkeley.edu)
+### Papers
 
----
+- **SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost**. NSDI '27.
+- **LEANN: A Low-Storage Vector Index for Personal Devices**. MLSys '26, Best Paper Award.
+- **FrontierCS: Evolving Challenges for Evolving Intelligence**. ICML '26.
+- **PixelRAG: Web Screenshots Beat Text for Retrieval-Augmented Generation**. Preprint.
 
-### 🚀 Key Projects & Research
+### Code
 
-My work focuses on building practical and high-performance systems for AI and data management.
+- [LEANN](https://github.com/StarTrail-org/LEANN), 12k stars: a vector index that cuts
+  storage by 97%, so RAG runs locally on a laptop.
+- [PixelRAG](https://github.com/StarTrail-org/PixelRAG), 8k stars: retrieval over web
+  screenshots instead of parsed text.
+- [SkyPilot](https://github.com/skypilot-org/skypilot), 10k stars: top-10 contributor; built
+  the high-availability controller for SkyServe.
 
-- **[SkyPilot](https://github.com/skypilot-org/skypilot)**
-  - **Core Developer** of the open-source (8k+ stars) SkyPilot framework for running AI workloads on any cloud, simplifying ML infrastructure and reducing costs.
-- **[LEANN](https://github.com/yichuan-w/LEANN)**
-  - Run a fast, accurate, and 100% private RAG application on your personal device with 97% storage savings.
-
-### 💻 Community & Leadership
-
-I believe in building and contributing to the community.
-
-- **Head TA, Introduction to Computer Systems (ICS)**
-  - Serving as the Head TA for the core systems course at Renmin University.
-- **President, RUC Computer Association**
-  - Leading the university's largest tech-focused student organization.
-
-### 🛠️ My Tech Stack
-
-- **Languages:** Python, C++, Rust
-- **Technologies:** Kubernetes, Docker, PyTorch, Ray, SkyPilot
-- **Tools:** Git, **Fish Shell**, **uv**, Typst
+[zhifei.li](https://zhifei.li) · [Google Scholar](https://scholar.google.com/citations?user=7MiEsfAAAAAJ) · zhifei.li@berkeley.edu
