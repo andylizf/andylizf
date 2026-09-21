@@ -1,6 +1,6 @@
 ## Zhifei Li
 
-Incoming CS PhD student at Princeton (Fall 2026), advised by Tri Dao and Ravi Netravali.
+CS PhD student at Princeton, advised by Tri Dao and Ravi Netravali.
 Previously a visiting student researcher at UC Berkeley's Sky Computing Lab with Ion Stoica.
 B.S. from Renmin University of China.
 
